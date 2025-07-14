@@ -3,7 +3,7 @@
 **MaxQT** - специализированный клиент для Max.ru, построенный на Qt WebEngine. Предоставляет нативный опыт рабочего стола с интеграцией в системный трей и поддержкой уведомлений.
 
 <div align="center">
-  <img src="maxqt.png" alt="MaxQt Icon" width="500" height="500">
+  <img src="maxqt.png" alt="MaxQt Icon" width="300" height="300">
 </div>
 
 [![Linux](https://img.shields.io/badge/OS-Linux-blue.svg)](https://www.linux.org/) [![Qt6](https://img.shields.io/badge/Qt-6-green.svg)](https://www.qt.io/) [![C++](https://img.shields.io/badge/Language-C%2B%2B-orange.svg)](https://isocpp.org/)
